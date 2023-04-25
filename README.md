@@ -10,8 +10,6 @@ I'm an aspiring web developer currently learning HTML, CSS, and JavaScript. Welc
 - 💬 Ask me about anything related to web development!
 - 📫 How to reach me: You can reach out to me on [CatChat](https://catchat-meow.netlify.app/).
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Did you know that the first website was launched in 1991?
-
 ## Contributions
 
 I love contributing to open-source projects and communities! Some of my notable contributions include:
