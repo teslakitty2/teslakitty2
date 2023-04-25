@@ -1,6 +1,6 @@
 ######### Hi there 👋
 
-<!--
+
 welcome to my profile
 
 Here are some ideas to get you started:
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://catchat-meow.netlify.app/ this is my chating site 
 - 😄 Pronouns: cat
 - ⚡ Fun fact: cats are awsome
--->
