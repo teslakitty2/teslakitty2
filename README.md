@@ -1,4 +1,4 @@
-# Hi there, I'm James Kuyt 👋
+# Hi there, I'm James 👋
 
 I'm an aspiring web developer currently learning HTML, CSS, and JavaScript. Welcome to my GitHub profile, where you can find some of my projects and contributions.
 
@@ -11,11 +11,6 @@ I'm an aspiring web developer currently learning HTML, CSS, and JavaScript. Welc
 - 📫 How to reach me: You can reach out to me on [CatChat](https://catchat-meow.netlify.app/).
 - 😄 Pronouns: he/him
 ## Contributions
-
-I love contributing to open-source projects and communities! Some of my notable contributions include:
-
-- **Project A**: A brief description of your contribution. You can check out the project [here](https://project-a-url.com/).
-- **Project B**: Another brief description of your contribution. You can visit the project [here](https://project-b-url.com/).
 
 ## Skills
 
