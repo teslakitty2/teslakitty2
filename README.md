@@ -10,8 +10,6 @@ I'm an aspiring web developer currently learning HTML, CSS, and JavaScript. Welc
 - 💬 Ask me about anything related to web development!
 - 📫 How to reach me: You can reach out to me on [CatChat](https://catchat-meow.netlify.app/).
 - 😄 Pronouns: he/him
-## Contributions
-
 ## Skills
 
 - HTML
