@@ -15,4 +15,3 @@ I'm an aspiring web developer currently learning HTML, CSS, and JavaScript. Welc
 - HTML
 - CSS
 - JavaScript
-- Python (planning to learn)
